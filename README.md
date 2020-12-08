@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Kyle Li
-### Software Developer / Quantum AI Enthusiast
+### Programmer / Quantum AI Enthusiast
 
 - 📝 My personal page: [https://nghiatle.github.io/](https://nghiatle.github.io/)
 - 📄 More about me: [https://nghiatle.github.io/#about](https://nghiatle.github.io/#about)
