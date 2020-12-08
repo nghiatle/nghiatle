@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi 👋, I'm Kyle Li
+### Software Developer / Quantum AI Enthusiast
 
-<!--
-**nghiatle/nghiatle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📝 My personal page: [https://nghiatle.github.io/](https://nghiatle.github.io/)
+- 📄 More about me: [https://nghiatle.github.io/#about](https://nghiatle.github.io/#about)
 
-Here are some ideas to get you started:
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=nghiatle&count_private=true&show_icons=true" alt="nghiatle" /></p></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="nghiatle" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nghiatle | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nghiatle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://nghiatle.github.io
+[twitter]: https://twitter.com/nghiatle_x
+[linkedin]: https://linkedin.com/in/nghialethanh
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nghiatle&label=Profile%20views&color=0e75b6&style=flat" alt="nghiatle" /> </p>
