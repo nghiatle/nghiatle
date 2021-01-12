@@ -1,8 +1,7 @@
 ## Hi 👋, I'm Kyle Li
-### Programmer / Quantum AI Enthusiast
+### Programmer
 
 - 📝 My personal page: [https://nghiatle.github.io/](https://nghiatle.github.io/)
-- 📄 More about me: [https://nghiatle.github.io/#about](https://nghiatle.github.io/#about)
 - 📄 Listen to music with me: [https://soundcloud.com/nghiatle](https://soundcloud.com/nghiatle)
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=nghiatle&count_private=true&show_icons=true" alt="nghiatle" /></p></div>
