@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Wiliam Li
-### Programmer
+### Programmer, Researcher
 
 - 📝 My personal page: [https://nghiatle.github.io/](https://nghiatle.github.io/)
 - 📄 Listen to music with me: [https://soundcloud.com/nghiatle](https://soundcloud.com/nghiatle)
@@ -13,7 +13,7 @@
 [<img align="left" alt="nghiatle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://nghiatle.github.io
-[twitter]: https://twitter.com/nghiatle_x
+[twitter]: https://twitter.com/nghiatle1997
 [linkedin]: https://linkedin.com/in/nghialethanh
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nghiatle&label=Profile%20views&color=0e75b6&style=flat" alt="nghiatle" /> </p>
