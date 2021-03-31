@@ -1,8 +1,11 @@
 ## Hi 👋, I'm Wiliam Li
 ### Programmer, Researcher
 
-- 📝 My personal page: [https://nghiatle.github.io/](https://nghiatle.github.io/)
-- 📄 Listen to music with me: [https://soundcloud.com/nghiatle](https://soundcloud.com/nghiatle)
+- Born: May 14, 1997 Binhdinh, Vietnam
+- Citizenship: Vietnamese
+- Address: Earth - Asia
+- Website: [https://nghiatle.github.io/](https://nghiatle.github.io/)
+- Listen to music with me: [https://soundcloud.com/nghiatle](https://soundcloud.com/nghiatle)
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=nghiatle&count_private=true&show_icons=true" alt="nghiatle" /></p></div>
 
