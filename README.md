@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Wiliam Li
 ### Programmer, Researcher
 
-- Born: May 14, 1997 Binhdinh, Vietnam
+- Born: May 14, 1997 Binh dinh, Vietnam
 - Citizenship: Vietnamese
-- Address: Danang, Vietnam
+- Address: Da nang, Viet nam
 - Website: [https://nghiatle.github.io/](https://nghiatle.github.io/)
 - Listen to music with me: [https://soundcloud.com/nghiatle](https://soundcloud.com/nghiatle)
 
