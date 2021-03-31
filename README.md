@@ -3,7 +3,7 @@
 
 - Born: May 14, 1997 Binhdinh, Vietnam
 - Citizenship: Vietnamese
-- Address: Earth - Asia
+- Address: Danang, Vietnam
 - Website: [https://nghiatle.github.io/](https://nghiatle.github.io/)
 - Listen to music with me: [https://soundcloud.com/nghiatle](https://soundcloud.com/nghiatle)
 
