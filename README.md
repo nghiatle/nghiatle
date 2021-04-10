@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Wiliam Li
-### "software development is not magic"
+### A real software engineer is always in search of {magic}
 
 > **Born**: May 14, 1997 Binh dinh, Vietnam<br>
 > **Citizenship**: Vietnamese<br>
