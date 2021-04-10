@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Wiliam Li
-### Developer, Researcher
+### Developer | Researcher
 
 > Born: May 14, 1997 Binh dinh, Vietnam<br>
 > Citizenship: Vietnamese<br>
