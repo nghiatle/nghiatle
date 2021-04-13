@@ -5,8 +5,8 @@
 > **🌍 Citizenship**: Vietnamese<br>
 > **🗺 Address**: Da nang, Viet nam<br>
 > **🏠 Website**: [https://nghiatle.github.io/](https://nghiatle.github.io/)<br>
-> **❤️ Listen to music with me**: [https://soundcloud.com/nghiatle](https://soundcloud.com/nghiatle)
-> **☕ Buy me a coffee**: [https://www.paypal.me/nghialethanh]
+> **❤️ Listen to music with me**: [https://soundcloud.com/nghiatle](https://soundcloud.com/nghiatle)<br>
+> **☕ Buy me a coffee**: [https://www.paypal.me/nghialethanh](https://www.paypal.me/nghialethanh)<br>
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=nghiatle&count_private=true&show_icons=true" alt="nghiatle" /></p></div>
 
