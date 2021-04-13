@@ -1,5 +1,5 @@
-## Hi 👋, I'm Wiliam Li
-### A real software [engineer] is always in search of {magic}
+## Hi there 👋, I'm Wiliam Li
+### I love connecting with different people so if you want to say hi, I'll be happy to meet you! :) If you have any questions, or if you just want to say hi, please feel free to email me.
 
 ---
 
