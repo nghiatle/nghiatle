@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Wiliam Li
-### A real software [engineer] is always in search of {magic}
+### A real software [ engineer ] is always in search of { magic }
+
+---
 
 > **📰 Born**: May 14, 1997 Binh dinh, Vietnam<br>
 > **🌍 Citizenship**: Vietnamese<br>
@@ -8,7 +10,14 @@
 > **❤️ Listen to music with me**: [https://soundcloud.com/nghiatle](https://soundcloud.com/nghiatle)<br>
 > **☕ Buy me a coffee**: [https://www.paypal.me/nghialethanh](https://www.paypal.me/nghialethanh)<br>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=nghiatle&count_private=true&show_icons=true" alt="nghiatle" /></p></div>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nghiatle&count_private=true&show_icons=true&line_height=52" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiatle&count_private=true&line_height=52" />
+</p>
+
+---
 
 ### Connect with me:
 
