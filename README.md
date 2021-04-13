@@ -6,7 +6,7 @@
 > **📰 Born**: May 14, 1997 Binh dinh, Vietnam<br>
 > **🌍 Citizenship**: Vietnamese<br>
 > **🗺 Address**: Da nang, Viet nam<br>
-> **🏠 Website**: [https://nghiatle.github.io/](https://nghiatle.github.io/)<br>
+> **🏠 Website**: [https://nghiatle.github.io](https://nghiatle.github.io)<br>
 > **❤️ Listen to music with me**: [https://soundcloud.com/nghiatle](https://soundcloud.com/nghiatle)<br>
 > **☕ Buy me a coffee**: [https://www.paypal.me/nghialethanh](https://www.paypal.me/nghialethanh)<br>
 
