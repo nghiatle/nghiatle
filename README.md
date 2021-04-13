@@ -1,5 +1,4 @@
-## Hi there 👋, I'm Wiliam Li
-### I love connecting with different people so if you want to say hi, I'll be happy to meet you! :) If you have any questions, or if you just want to say hi, please feel free to email me.
+## Hi 👋, I'm Wiliam Li
 
 ---
 
@@ -19,6 +18,12 @@
 
 ---
 
+<p align="center">
+  <samp>
+    I love connecting with different people so if you want to say hi, I'll be happy to meet you!<br> If you have any questions, or if you just want to say hi, please feel free to email me.
+  </samp>
+</p>
+
 ### Connect with me:
 
 [<img align="left" alt="kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
@@ -30,3 +35,16 @@
 [linkedin]: https://linkedin.com/in/nghialethanh
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nghiatle&label=Profile%20views&color=0e75b6&style=flat" alt="nghiatle" /> </p>
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
