@@ -6,6 +6,7 @@
 > **📰 Born**: May 14, 1997 Binh dinh, Vietnam<br>
 > **🌍 Citizenship**: Vietnamese<br>
 > **🗺 Address**: Da nang, Viet nam<br>
+> **🦸‍♂️ Idol**: Nikola Tesla, Tony Stark<br>
 > **🏠 Website**: [https://nghiatle.github.io](https://nghiatle.github.io)<br>
 > **❤️ Listen to music with me**: [https://soundcloud.com/nghiatle](https://soundcloud.com/nghiatle)<br>
 > **☕ Buy me a coffee**: [https://www.paypal.me/nghialethanh](https://www.paypal.me/nghialethanh)<br>
@@ -21,7 +22,7 @@
 
 <p align="center">
   <samp>
-    I love connecting with different people so if you want to say hi, I'll be happy to meet you!<br> If you have any questions, or if you just want to say hi, please feel free to email me.
+    I love connecting with different people so if you want to say hi, I'll be happy to meet you!<br> If you have any questions, please feel free to email me.
   </samp>
 </p>
 
