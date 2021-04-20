@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Wiliam Li
-#### ✨ I'm a ambitious Software Developer 👨🏻‍💻 who loves building and developing applications and websites. I'd love to combine my passion for programming and learning with my software engineering skills to continue building 🧑‍💻 more personalized applications and websites for people ✨.
+#### ✨ I'm a Full-stack Developer 👨🏻‍💻 who loves building and developing applications and websites. I'd love to combine my passion for programming and learning with my software engineering skills to continue building 🧑‍💻 more personalized applications and websites for people ✨.
 
 ---
 
