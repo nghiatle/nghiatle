@@ -8,7 +8,7 @@
 > **🗺 Address**: Da nang, Viet nam<br>
 > **🦸‍♂️ Idol**: Nikola Tesla, Tony Stark<br>
 > **🏠 Website**: [https://nghiatle.github.io](https://nghiatle.github.io)<br>
-> **❤️ Listen to music with me**: [https://soundcloud.com/nghiatle](https://soundcloud.com/nghiatle)<br>
+> **❤️ Listen to music with me**: [https://open.spotify.com/user/31t7q4fyn4brd6s6f3piuecvrlbu](https://open.spotify.com/user/31t7q4fyn4brd6s6f3piuecvrlbu)<br>
 > **☕ Buy me a coffee**: [https://www.paypal.me/nghialethanh](https://www.paypal.me/nghialethanh)<br>
 
 ---
