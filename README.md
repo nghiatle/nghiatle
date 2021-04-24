@@ -2,12 +2,14 @@
 #### ✨ I'm a Full-stack Developer 👨🏻‍💻 who loves building and developing applications and websites. I'd love to combine my passion for programming and learning with my software engineering skills to continue building 🧑‍💻 more personalized applications and websites for people ✨.
 
 ---
-
-> **📰 Born**: May 14, 1997 Binh dinh, Vietnam<br>
-> **🌍 Citizenship**: Vietnamese<br>
-> **🗺 Address**: Da nang, Viet nam<br>
+### PERSONAL DETAILS
+> **📰 Date of Birth**: May 1997<br>
+> **📰 Place of Birth**: Binh dinh, Vietnam<br>
+> **🌍 Nationality**: Vietnamese<br>
+> **📧 Email**:nghiatle1997@gmail.com<br>
+> **🏠 Homepage**:[https://nghiatle.github.io](https://nghiatle.github.io)<br>
+> **🗺 Current Address**: HCMC, Viet nam<br>
 > **🦸‍♂️ Idol**: Nikola Tesla, Tony Stark<br>
-> **🏠 Website**: [https://nghiatle.github.io](https://nghiatle.github.io)<br>
 > **❤️ Listen to music with me**: [https://open.spotify.com/user/31t7q4fyn4brd6s6f3piuecvrlbu](https://open.spotify.com/user/31t7q4fyn4brd6s6f3piuecvrlbu)<br>
 > **☕ Buy me a coffee**: [https://www.paypal.me/nghialethanh](https://www.paypal.me/nghialethanh)<br>
 
