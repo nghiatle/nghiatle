@@ -30,13 +30,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://simpleicons.org/icons/gitee.svg" />][gitee]
 
 [kaggle]: https://www.kaggle.com/nghiatle
 [twitter]: https://twitter.com/nghiatle1997
 [linkedin]: https://linkedin.com/in/nghialethanh
+[gitee]: https://gitee.com/nghiatle
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nghiatle&label=Profile%20views&color=0e75b6&style=flat" alt="nghiatle" /> </p>
 
