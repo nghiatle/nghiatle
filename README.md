@@ -4,10 +4,10 @@
 ---
 ### PERSONAL DETAILS
 > **📰 Date of Birth**: May 1997<br>
-> **👽 Place of Birth**: Binh dinh, Vietnam<br>
+> **👽 Place of Birth**: Binh Dinh, Vietnam<br>
 > **🌍 Nationality**: Vietnamese<br>
-> **📧 Email**:nghiatle1997@gmail.com<br>
-> **🏠 Homepage**:[https://nghiatle.github.io](https://nghiatle.github.io)<br>
+> **📧 Email**: wiliamli.dev@gmail.com<br>
+> **🏠 Homepage**: [https://nghiatle.github.io](https://nghiatle.github.io)<br>
 > **🗺 Current Address**: HCMC, Vietnam<br>
 ---
 
