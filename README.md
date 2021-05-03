@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Wiliam Li
-#### ✨ I'm a Software Developer, Computing Explorer 👨🏻‍💻 who loves building and developing applications and websites. I'd love to combine my passion for programming and learning with my software engineering skills to continue building 🧑‍💻 more personalized applications and websites for people ✨.
+#### ✨ I'm a Computing Explorer 👨🏻‍💻 who loves building and developing software applications. I'd love to combine my passion for programming and learning with my software engineering skills to continue building 🧑‍💻 more personalized applications for people ✨.
 
 ---
 ### PERSONAL DETAILS
