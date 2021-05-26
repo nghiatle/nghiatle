@@ -18,12 +18,6 @@
 
 ---
 
-<p align="center">
-  <samp>
-    I love connecting with different people so if you want to say hi, I'll be happy to meet you!<br> If you have any questions, please feel free to email me.
-  </samp>
-</p>
-
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
