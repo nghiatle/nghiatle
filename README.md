@@ -1,22 +1,4 @@
-## Hi 👋, I'm Wiliam Li
-#### ✨ I'm a Computing Explorer 👨🏻‍💻 who loves building and developing software applications. I'd love to combine my passion for programming and learning with my software engineering skills to continue building 🧑‍💻 more personalized applications for people ✨.
-
----
-### PERSONAL DETAILS
-> **📰 Date of Birth**: May 1997<br>
-> **👽 Place of Birth**: Binh Dinh, Vietnam<br>
-> **🌍 Nationality**: Vietnamese<br>
-> **📧 Email**: wiliamli.dev@gmail.com<br>
-> **🏠 Homepage**: [https://nghiatle.github.io](https://nghiatle.github.io)<br>
-> **🗺 Current Address**: HCMC, Vietnam<br>
----
-
-<p align="center">
-  <img width="49.99%" src="https://github-readme-stats.vercel.app/api?username=nghiatle&count_private=true&show_icons=true&line_height=52" />
-  <img width="39.99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiatle&count_private=true&line_height=52" />
-</p>
-
----
+## Hi 👋
 
 ### Connect with me:
 
