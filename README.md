@@ -9,12 +9,11 @@
 [<img align="left" width="22px" src="https://simpleicons.org/icons/github.svg" />][github]
 [<img align="left" width="22px" src="https://simpleicons.org/icons/spotify.svg" />][spotify]
 
+[spotify]: https://open.spotify.com/playlist/5JDihfq2STJ1AArABBviMh?si=e7851ea5bf404d16
 [kaggle]: https://www.kaggle.com/nghiatle
-[twitter]: https://twitter.com/nghiatle1997
 [linkedin]: https://linkedin.com/in/nghialethanh
 [gitee]: https://gitee.com/nghiatle
 [github]: https://github.com/nghiatle
-[spotify]: https://open.spotify.com/playlist/5JDihfq2STJ1AArABBviMh?si=e7851ea5bf404d16
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nghiatle&label=Profile%20views&color=0e75b6&style=flat" alt="nghiatle" /> </p>
 
