@@ -3,11 +3,9 @@
 ### Connect with me:
 
 
-- [kaggle](https://www.kaggle.com/nghiatle)
+- [Kaggle](https://www.kaggle.com/nghiatle)
 
-- [gitee](https://gitee.com/nghiatle)
-
-- [github](https://github.com/nghiatle)
+- [DrivenData](https://www.drivendata.org/users/nghiatle/)
 
 - [spotify](https://open.spotify.com/playlist/5JDihfq2STJ1AArABBviMh?si=e7851ea5bf404d16)
 
