@@ -3,11 +3,13 @@
 ### Connect with me:
 
 
+- [TopCoder](https://www.topcoder.com/members/wiliamli)
+
 - [Kaggle](https://www.kaggle.com/nghiatle)
 
 - [DrivenData](https://www.drivendata.org/users/nghiatle/)
 
-- [spotify](https://open.spotify.com/playlist/5JDihfq2STJ1AArABBviMh?si=e7851ea5bf404d16)
+- [Spotify](https://open.spotify.com/playlist/5JDihfq2STJ1AArABBviMh?si=e7851ea5bf404d16)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nghiatle&label=Profile%20views&color=0e75b6&style=flat" alt="nghiatle" /> </p>
 
