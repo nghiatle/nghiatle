@@ -1,4 +1,4 @@
-## Hi 👋
+## [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Noto+Sans&color=0003FF&size=25&center=true&vCenter=true&width=700&height=40&lines=%E4%BD%A0%E5%A5%BD;Welcome)](https://git.io/typing-svg)
 
 ### Connect with me:
 
