@@ -1,10 +1,10 @@
-## [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Noto+Sans&color=0003FF&size=25&center=true&vCenter=true&width=700&height=40&lines=%E4%BD%A0%E5%A5%BD;Welcome)](https://git.io/typing-svg)
+## [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Noto+Sans&color=0003FF&size=20&center=true&vCenter=true&width=150&height=30&lines=%E4%BD%A0%E5%A5%BD;Welcome)](https://git.io/typing-svg)
 
 ### Connect with me:
 
+- [Kaggle](https://www.kaggle.com/nghiatle)
 - [TopCoder](https://www.topcoder.com/members/wiliamli)
 - [AIcrowd](https://www.aicrowd.com/participants/wiliam_li)
-- [Kaggle](https://www.kaggle.com/nghiatle)
 - [DrivenData](https://www.drivendata.org/users/nghiatle/)
 - [Spotify](https://open.spotify.com/playlist/5JDihfq2STJ1AArABBviMh?si=e7851ea5bf404d16)
 
