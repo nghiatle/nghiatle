@@ -1,7 +1,4 @@
-## NGƯỜI MÙ CẦM NGỌN ĐÈN TRONG ĐÊM....!
-> Mặc dù bị mù, người đàn ông vẫn luôn cầm chiếc đèn đã thắp sáng mỗi khi đi đường. Lí do nghe xong khiến ai cũng thấm thía.
-Tại một thị trấn nhỏ ở một nơi xa xôi trên thế giới, có một người đàn ông mù sống một mình. Vì cuộc sống mưu sinh, ông thường xuyên phải ra ngoài vào ban đêm. Mặc dù bị mù không nhìn thấy gì nhưng ông luôn giữ thói quen cầm theo một chiếc đèn đã thắp sáng mỗi khi đi đường.
-Một đêm nọ, khi đang trở về nhà sau khi ăn tối nhà hang xóm làng bên, ông tình cờ gặp một nhóm du khách trẻ. Họ ngạc nhiên khi thấy rằng ông bị mù nhưng vẫn mang theo một chiếc đèn sáng. Họ bắt đầu bàn tán xôn xao về người đàn ông, buông ta những câu bông đùa. Tất nhiên chỉ có đám du khách nhìn thấy ông còn ông chỉ nghe thấy những tiếng nói chuyện xung quanh mình. Bỗng có một người tiến lại gần người đàn ông mù hỏi với giọng mỉa mai:
--Này ông, rõ ràng ông bị mù và không thể nhìn thấy gì, tại sao ông vẫn phải mang theo đèn vậy? Nó có giúp ích được gì cho ông đâu?
-Người đàn ông mù nhẹ nhàng trả lời:
--Vâng, thật không may tôi đã bị mù và tôi không thể nhìn thấy mọi thứ như các cậu. Thế nhưng tôi cầm theo chiếc đèn để giúp mọi người nhìn thấy tôi cũng như mọi thứ trên đường để đi cẩn thận hơn. Nếu không có chiếc đèn này, các cậu có thể không nhìn thấy tôi, va vào tôi khiến tôi bị ngã hoặc tình huống ngược lại, các cậu sẽ bị ngã đau. Tôi nghe nói, trong bóng tối nếu không có ngọn đèn chiếu sáng, mọi người cũng sẽ giống như tôi, không nhìn thấy gì cả. Đó là lý do tại sao tôi luôn mang theo một chiếc đèn.
+## NGƯỜI MÙ ĐI TRONG ĐÊM!
+> Chuyện kể, xưa kia có một vị đại quan. Một ngày ông bắt gặp một người mù, trên tay cầm một cây đèn, lần mò đi trong đêm tối. Đại quan lấy làm lạ, bèn bước đến hỏi lý do: “Xin thứ lỗi cho tại hạ thất lễ. Tại sao lão gia lại cầm đèn vậy?”
+Người mù không hề tự ái, mà mỉm cười đáp lại: “Tôi nghe nói khi trời tối, người khác cũng như tôi đều chẳng nhìn thấy gì. Thế nên, tôi mới thắp đèn để soi đường cho sáng”.
+Đại quan nghe xong, càng thêm phần cảm phục: “Thì ra là ông muốn thắp đèn sáng là vì mọi người, ông thật lương thiện”. Người mù vội xua tay: “Đại nhân đề cao tôi quá rồi. Thực ra tôi cầm đèn cũng là vì tôi thôi. Chỉ khi có ánh sáng, người khác đi trong bóng tối mới nhìn thấy tôi và không va vào tôi nữa”.
